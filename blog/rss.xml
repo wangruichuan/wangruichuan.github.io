@@ -4,10 +4,19 @@
         <title>王锐川的官方网站 Blog</title>
         <link>https://wangruichuan.github.io/blog</link>
         <description>王锐川的官方网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[高兴诗]]></title>
+            <link>https://wangruichuan.github.io/blog/happy</link>
+            <guid>https://wangruichuan.github.io/blog/happy</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天天气真不错，我们大家来上课]]></description>
+            <content:encoded><![CDATA[<p>今天天气真不错，我们大家来上课</p>]]></content:encoded>
+            <category>随笔</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://wangruichuan.github.io/blog/welcome</link>
